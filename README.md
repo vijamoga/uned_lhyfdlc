@@ -23,15 +23,13 @@ Q | Código asignatura | Nombre asignatura
 2 | 70014191 | FILOSOFÍA DE LA MENTE (FILOSOFÍA)
 
 Aquí quedan enlazados mis apuntes para las asignaturas cursadas:
-* Lógica 1 :
-* Lógica 2 :
-* Historia general de la ciencia 1 :
-  * Las infinitas vidas de Euclides (resumen del libro cuya lectura es recomendada para afrontar HGC1) : 
-* Historia general de la ciencia 2 : (pendiente)
-* Aspectos de la ciencia contemporánea : (pendiente)
-* Filosofía de la ciencia 1 :
-* Filosofía de la ciencia 1 (resúmenes) :
-* Filosofía de la ciencia 2 :
+* Lógica 1 : https://github.com/vijamoga/uned_lhyfdlc/blob/main/Textos/L%C3%B3gica%20I%20-%20l%C3%B3gica%20de%20enunciados%20(apuntes%20UNED).pdf
+* Lógica 2 : https://github.com/vijamoga/uned_lhyfdlc/blob/main/Textos/L%C3%B3gica%20II%20-%20l%C3%B3gica%20de%20predicados%20(apuntes%20UNED).pdf
+* Historia general de la ciencia 1 : https://github.com/vijamoga/uned_lhyfdlc/blob/main/Textos/Historia%20General%20de%20la%20Ciencia%201%20(UNED).pdf
+  * Las infinitas vidas de Euclides (resumen del libro cuya lectura es recomendada para afrontar HGC1) : https://github.com/vijamoga/aprendiz_eterno/blob/aprendizEterno/Textos/Resumen%20de%20Las%20infinitas%20vidas%20de%20Euclides%2C%20de%20Benjamin%20Wardhaugh.pdf
+* Filosofía de la ciencia 1 : https://github.com/vijamoga/uned_lhyfdlc/blob/main/Textos/Filosof%C3%ADa%20de%20la%20Ciencia%201%20(UNED).pdf
+ * Filosofía de la ciencia 1 (resúmenes) : https://github.com/vijamoga/uned_lhyfdlc/blob/main/Textos/Filosof%C3%ADa%20de%20la%20Ciencia%201%20-%20esquemas%20resumen%20(UNED).pdf
+* Filosofía de la ciencia 2 : https://github.com/vijamoga/uned_lhyfdlc/blob/main/Textos/Filosof%C3%ADa%20de%20la%20Ciencia%202%20(UNED).pdf
 
 Aquí puede encontrarse el listado de microgrados ofertados por la UNED, en particular este que nos atañe (no vinculo directamente al específico del microgrado, pues cada año cambia la URL para adecuar la guía y presentación del mismo ante los posibles cambios)
 * https://www.uned.es/universidad/inicio/estudios/microtitulos.html
