@@ -1,7 +1,8 @@
 # Lógica, historia y filosofía de la ciencia.
 Apuntes del microgrado de "Lógica, historia y filosofía de la ciencia" de la UNED
 
-En mi poco tiempo libre entre obligaciones familiares y laborales, estoy terminando de cursar el microgrado de lógica, historia y filosofía de la ciencia ofertado por la UNED. Se trata de un compendio de algunas asignaturas del grado en filosofía de dicha universidad, enfocadas a la temática indicada.
+En mi poco tiempo libre entre obligaciones familiares y laborales, estoy terminando de cursar el microgrado de lógica, historia y filosofía de la ciencia ofertado por la UNED (aunque ahora mismo lo he tenido que pausar). Se trata de un compendio de algunas asignaturas del grado en filosofía de dicha universidad, enfocadas a la temática indicada.
+
 El microgrado exige la superación de al menos 7 de las asignaturas propuestas. En particular, yo me he decantado por las que específicamente se ciñen a lo dictado por el título del microgrado, si bien se puede elegir entre las siguientes (al menos durante el periodo en que yo lo cursé: 2023-2026)
 
 Q | Código asignatura | Nombre asignatura 
